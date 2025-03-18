@@ -1,0 +1,71 @@
+Nagarro
+
+Topics -
+HTML, CSS, JS, ReactJS,Redux, web workers, service workers, web storage, RTL, RWD, Caching Strategies, Typescript, web pack
+======================================================================================================
+1. Web workers vs Service Workers (when to use what)
+2. Axios, why axis?
+3. Interceptors in Axios ? Why and when to use axios
+4. Authentication in React handling?
+5. Error Boundary in React?
+6. Write a functional component and add error boundary
+7. SASS and benefits of using SASS over traditional css,
+8. How to add SASS in react, how do you add it in a react application?
+9. Lazy loading in React. Example?, benefits of lazy loading, how can lazy loading improve the performance of the website
+10. Use memo and its benefits
+
+===========================================================================================================
+
+1. Versions of React you have worked on and features of latest React version you have worked with?
+2. All the hooks that you have used. Explain when to use useCallback.
+3. How to manage state in React?
+4. Custom hooks. Why use it?
+5. What CSS preprocessors you have worked on?
+6. Redux related questions.
+7. Use of effects in Saga middleware.
+8. Which library have you used for testing? Some basic questions.
+9. Positions in CSS
+10. Grid vs Flex
+11. Semantic elements
+12. JS questions
+----------------
+var a = []
+function test(b) {    
+	 a.push(b)  
+	return b
+}
+var a = [1,2,3]
+var b = a b.push(4)
+console.log(a)
+----------------
+let i                                                                                              
+for (i = 0 i < 3; i++)
+{    
+	const log = () => {    
+				console.log(i)                                                                                 
+			}
+setTimeout(log, 100)                                                                               
+}
+----------------------
+var obj = {    
+	a: “John”,    
+	fun1: function () {     console.log(this)    }
+} 
+obj.fun1()
+-----------------
+var obj = {    
+	a: “John”,    
+	fun1: () => {      console.log(this)     }  
+}  
+obj.fun1()
+--------------------
+13. Create a timer/stopwatch using react.
+
+============================================================================================================
+
+1. Higher Order Component
+2. Render Method
+3. Component Life Cycle Class Based
+4. State and Props in class based components
+5. Create Action for Given Reducers
+6. Find distance between two character in a string(excluding space)

@@ -1,0 +1,1 @@
+1. Write a react app to create histogram to plot graphs on x and y axis
